@@ -14,12 +14,13 @@ $brand-colors: (
   "orangered": #ff5100,
   "greatgold": #f2cb05,
   "greenblue": #389092,
+  "expurple" : #D070FB,
 );
 
 $theme-name: "{{ site.theme_color }}";
 $brand-name: "{{ site.brand_color }}";
 $theme-color: map-get($theme-colors, "snowwhite");
-$brand-color: map-get($brand-colors, "orangered");
+$brand-color: map-get($brand-colors, "expurple");
 
 @if map-has-key($theme-colors, $theme-name) {
   $theme-color: map-get($theme-colors, $theme-name);
