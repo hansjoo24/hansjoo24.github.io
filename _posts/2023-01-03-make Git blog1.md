@@ -1,8 +1,10 @@
 ---
 layout: post
-title:  "GIT 블로그 만들기 1) GIT 저장소 생성과 로컬 저장소 연결"
+title:  GIT 블로그 만들기 1
+subtitle: GIT 저장소 생성과 로컬 저장소 연결
 date:   2023-01-03 11:11:23 +0900
 categories: study
+tags: Git jekyll blog
 ---
 이번에 처음으로 GIT 블로그를 만들어 보았다!   
 처음이라 오류도 엄청 많이 걸리고 힘들었지만, 일단 다 만드니 뿌듯하다!   
