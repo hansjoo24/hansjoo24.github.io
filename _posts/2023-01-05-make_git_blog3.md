@@ -57,7 +57,7 @@ git commit -m "new theme"
 git push
 ```
   
-### 테마 적용 및 
+### 테마 적용 결과
 
 [https://hansjoo24.github.io/](https://hansjoo24.github.io/)
 
