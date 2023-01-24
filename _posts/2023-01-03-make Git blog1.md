@@ -36,15 +36,15 @@ GitHub 페이지
 
 Repository 이름은 `(사용자id).github.io` 로 정했다. 대부분 다 이런 이름으로 정하는 것 같다. 
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/082b5360-1131-402f-9f3d-c4ec89c92c1e/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230103%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230103T041528Z&X-Amz-Expires=86400&X-Amz-Signature=d073ad0c91209f85679d3a46d3b6f33871abeb34d5a7cd44b62a82d02019c0d0&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.png%22&x-id=GetObject)
+![imgur](/assets/images/2023-01-03-makeGitBlog1/file1.png)
 
 처음 실행한 경우 이러한 화면이 나올 텐데, `Quick setup`이나 `command line`을 통해 초기 설정을 한다. 아예 처음 만드는 경우 command line 부분을 다 복사해서 cmd/터미널(원하는 폴더 있는 곳) 에 붙여 넣으면 된다. 
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/398e3a00-9906-4281-8e5d-fd001934387b/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230103%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230103T042142Z&X-Amz-Expires=86400&X-Amz-Signature=b04f6f85089338133c6f5320e2fa2d4d192ec6e59a9cad51567a57643f4530a6&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.png%22&x-id=GetObject)
+![Untitled](/assets/images/2023-01-03-makeGitBlog1/file2.png)
 
 초기 설정을 완료하면 이렇게 된다. 우측 상단의 code 버튼을 누르면 로컬 저장소에 clone 할 수 있는 링크를 볼 수 있다. (HTTPS / SSH) 
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/80be130b-0940-46b0-bbba-16cd1e7defe1/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230103%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230103T042205Z&X-Amz-Expires=86400&X-Amz-Signature=0612a03bf4011672d023b2fa8a631457b2d4e8b4352790a5e35051a1843cde1f&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.png%22&x-id=GetObject)
+![Untitled](/assets/images/2023-01-03-makeGitBlog1/file3.png)
 
 나의 경우, HTTPS로 clone 했을 때, 변경사항을 push 한 경우 push 할 권한이 없다고 떠서, 이를 해결하기 위해 SSH로 clone을 진행했었다. SSH로 clone 하기 위해서는 사전에 SSH키를 생성하는 과정이 필요하다. 
 
